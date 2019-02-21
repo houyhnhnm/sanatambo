@@ -1,0 +1,21 @@
+.picboundary { 
+	stroke-width:1;
+	stroke: #ffff00;
+}
+
+.picimage { 
+	background-color: #008000;
+}
+
+.letterimage{
+	background-color: #b8860b;
+	color: #0000ff;
+}
+
+.emptyimage{
+	background-color: #b8860b;
+}
+
+.picimagemark { 
+	background-color: #008000;
+}
